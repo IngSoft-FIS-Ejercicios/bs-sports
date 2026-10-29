@@ -202,3 +202,9 @@ La diapositiva de yoga ya está creada y servirá como modelo para agregar las d
 👀 **Resultado esperado:** los controles **Anterior** y **Siguiente** permiten recorrer las imágenes de yoga, fuerza y ciclismo. El carrusel muestra una imagen por vez y comienza mostrando la imagen de yoga.
 
 📚 Referencia: [carrusel](https://getbootstrap.com/docs/5.3/components/carousel/).
+
+## Recursos adicionales 
+- [Documentación de Typescript](https://www.w3schools.com/typescript/)
+- [Documentación de HTML - mdn](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Documentación de Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [WAVE Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
